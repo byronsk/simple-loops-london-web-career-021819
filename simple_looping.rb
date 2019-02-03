@@ -1,6 +1,6 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
-def loop_iterator(7)
+def loop_iterator
  phrase = "Welcome to Flatiron School's Web Development Course!"
  counter = 0
  loop do 
