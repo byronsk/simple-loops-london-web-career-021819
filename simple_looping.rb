@@ -1,6 +1,8 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
-def
+def loop_iterator(number_of_times)
+  phrase = "Welcome to Flatiron School's Web Development Course!"
+  
 
 
 def while_iterator(number_of_times)
