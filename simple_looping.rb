@@ -1,12 +1,12 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
-def loop_iterator()
+def loop_iterator(7)
  phrase = "Welcome to Flatiron School's Web Development Course!"
  counter = 0
  loop do 
  counter += 1
  puts phrase
- if counter >= number_of_times
+ if counter >= 7
  break
  end
  end
